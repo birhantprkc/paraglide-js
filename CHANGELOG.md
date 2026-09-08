@@ -1,5 +1,11 @@
 # @inlang/paraglide-js
 
+## 2.25.1
+
+### Patch Changes
+
+- 845e819: Upgrade the Inlang SDK to 3.0.4, including Lix 0.15.1 fixes for transaction-local message and variant reads.
+
 ## 2.25.0
 
 ### Minor Changes
